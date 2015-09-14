@@ -2734,7 +2734,7 @@ meta.foundation-mq-topbar {
   margin-bottom: 1.25rem;
   padding: 1.25rem;
   background: #f2f2f2;
-  color: #333333; }
+  color: #222222; }
   .panel > :first-child {
     margin-top: 0; }
   .panel > :last-child {
@@ -6097,3 +6097,10 @@ th.hide-for-touch {
 @media not print {
   .show-for-print {
     display: none !important; } }
+
+  .site-footer {
+    background-color: #222222;
+    color: #857F74;
+    display: block;
+
+  }
